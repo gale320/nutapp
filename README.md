@@ -1,0 +1,2 @@
+# nutapp
+a qt  application
